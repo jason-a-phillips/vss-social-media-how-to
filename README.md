@@ -1,10 +1,10 @@
-# How to include VSS social media content in your webpage
+# How to embed Visit San Saba social media content in your webpage
 
-1. Go to the [Visit San Saba](https://visitsansabatexas.com/single-source/) Social Happenings page.  Click on one of the cards containing a social media post.
+1. Go to the [Visit San Saba Social Happenings](https://visitsansabatexas.com/single-source/) page.  Click on one of the cards containing a social media post.
 
     > ![VSS Facebook post](img/img1.jpg?raw=true)
 
-2. In this example, clicking that link will take you to the post in Facebook.
+2. In this example, clicking that card/link will take you to the post in Facebook.
 
     > ![Facebook post](img/img2.jpg?raw=true)
 
