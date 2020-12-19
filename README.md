@@ -6,13 +6,16 @@ Click on one of the cards containing a social media post.
 
 > ![VSS Facebook post](img/img1.jpg?raw=true)
 
+
 In this example, that will take you to the post in Facebook.
 
 > ![Facebook post](img/img2.jpg?raw=true)
 
+
 Click the menu in the top right corner (three dots) and click "</> Embed". 
 
 > ![Facebook post](img/img3.jpg?raw=true)
+
 
 You will be taken to a page which looks like the following:
 
