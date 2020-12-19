@@ -20,13 +20,11 @@
 
 > ![Facebook get code](img/img5.jpg?raw=true)
 
-## Facebook shows you the JavaScript and HTML that you need to copy into your webpage to display the post on your website.
+## Facebook shows you the JavaScript and HTML that you need to copy into your webpage to embed the post on your website.
 
 > ![Facebook get code](img/img6.jpg?raw=true)
 
-## Facebook shows you the JavaScript and HTML that you need to copy into your webpage to display the post on your website.
-
-## Copy the code into your website's web page and publish it. I have created a template here: [facebook-example.html](facebook-example.html)
+## Copy the code into your website's web page and publish it. I have created an example to show you what that looks like: [facebook-example.html](facebook-example.html)
 
 ## That is a simple HTML page which you can use as a template. When I open that HTML page on my laptop in Chrome, this is what I see:
 
